@@ -9,7 +9,7 @@
 		"fadeID": "fad",
 		"hasLevel": true,
 		"hasMix": true,
-		"proc": ["gate", "insert", "eq", "dyn", "lr"],
+		"proc": ["gate", "insert", "eq", "dyn", "lr", "pan"],
 		"procPfx": "",
 		"hasOn": true
 	},
@@ -54,7 +54,7 @@
 		"fadeID": "fad",
 		"hasLevel": false,
 		"hasMix": true,
-		"proc": ["insert", "eq", "dyn","lr"],
+		"proc": ["insert", "eq", "dyn", "lr", "pan"],
 		"procPfx": "",
 		"hasOn": true
 	},
@@ -84,7 +84,7 @@
 		"hasLevel": false,
 		"hasMix": true,
 		"procPfx": "m_",
-		"proc": ["insert", "eq", "dyn"],
+		"proc": ["insert", "eq", "dyn", "pan"],
 		"hasOn": true
 	},
 	{
